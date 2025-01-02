@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .contact {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .contact h1 {
+    color: #228B22;
+    margin-bottom: 20px;
+  }
+  
+  .contact p {
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+  
+  .banner {
+    width: 80%;
+    margin-bottom: 30px;
+    border-radius: 10px;
+  }
+  
+  form {
+    display: block;
+    margin: 0 auto 30px;
+    max-width: 500px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  form input, form textarea {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  form button {
+    background-color: #228B22;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #1e7a1e;
+  }
+  .send-msg-btn{
+    border-radius: 6px;
+  }
